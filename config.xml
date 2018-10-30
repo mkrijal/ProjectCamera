@@ -2,7 +2,7 @@
 <widget id="com.notarazi.bpg" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>BPG </name>
     <description>Build Phone Gap Example</description>
-    <author email="notarazi@gmail.com" href="http://fb.me/notarazi.blogs">
+    <author email="xxxx@gmail.com" href="">
         Notarazi
     </author>
     <content src="index.html" />
